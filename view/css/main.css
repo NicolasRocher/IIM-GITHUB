@@ -12,8 +12,10 @@ input:focus {
 
 #logbox {
 	padding: 40px;
-	background-color: #333;
+	background-color: #f36c4e;
 	color: #fff;
+	border: transparent;
+	border-radius: 2vw 2vw 2vw 2vw;
 }
 
 #logbox.register {
@@ -27,6 +29,7 @@ input:focus {
 	font-size: 15px;
 	text-transform: uppercase;
 	letter-spacing: 1px;
+	font-family: "Montserrat";
 
 }
 
@@ -38,12 +41,14 @@ input:focus {
 #logbox .form-input input[type="text"],
 #logbox .form-input input[type="password"] {
 	width: 100%;
-	border: transparent;
+	border : transparent;
+	border-radius: 1vw 1vw 1vw 1vw;
 	padding: 10px 0 10px 40px;
 	background-color: rgba(255,255,255,.2);
 	color: white;
 	font-size: 12px;
 	text-transform: uppercase;
+	font-family: "Montserrat";
 }
 
 #logbox .form-input input:focus {
@@ -92,8 +97,12 @@ input:focus {
 	width: 100%;
 	font-size: 11px;
 	text-transform: uppercase;
-	background-color: #f50;
+	background-color: #ce5845;
 	padding: 10px;
+	font-family: "Montserrat";
+}
+#logbox .form-submit input[type="submit"]:hover {
+	background-color: rgba(255,255,255,.2);
 }
 
 #logbox.register .form-submit input[type="submit"] {
