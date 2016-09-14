@@ -221,6 +221,7 @@ p.account a {
 	-moz-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
 	box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
 	border: solid 1px #fff;
+	border-radius:2vw 2vw 2vw 2vw;
 }
 
 .music:hover{
@@ -278,10 +279,10 @@ p.account a {
 }
 
 .block .valid {
-	border: none;
+	border:none;
 	padding: 10px 20px;
-	color: white;
-	background-color: #f36c4e;
+	color: black;
+	background-color: white;
 }
 
 .image:before {
