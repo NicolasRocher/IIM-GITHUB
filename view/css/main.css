@@ -483,6 +483,7 @@ p.account a {
     font: 95% Arial, Helvetica, sans-serif;
     margin-left:25%;
     margin-top:2%;
+    height:100px;
 }
 .form-style-6 input[type="text"]:focus,
 .form-style-6 input[type="date"]:focus,
@@ -515,6 +516,7 @@ p.account a {
     color: #fff;
     font-size:2em;
     margin-left:25%;
-
+    height:110px;
+    margin-bottom:2%;
 }
 
