@@ -279,10 +279,10 @@ p.account a {
 }
 
 .block .valid {
-	border: none;
+	border:none;
 	padding: 10px 20px;
 	color: white;
-	background-color: #81BEF7;
+	background-color: white;
 }
 
 .image:before {
