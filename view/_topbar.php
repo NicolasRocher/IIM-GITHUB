@@ -10,7 +10,10 @@
 						<a href="logout.php" class="btn">Déconnexion</a>
 						<a href="edit_image.php" class="btn">Profil</a>
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> 8d138d9aa7f50aac30a976d7b9af159071a829f7
 						<a href="inscription.php" class="btn">Inscription</a>
 						<a href="forum.php" class="btn">Forum</a>
 >>>>>>> b2cde612cf4bae2d232c71c828093b5b90cac053
