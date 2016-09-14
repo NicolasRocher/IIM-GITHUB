@@ -442,7 +442,6 @@ p.account a {
     background: #F7F7F7;
 }
 .form-style-6 h2{
-    background-image:url("image/sprinkles.png");
    	padding:3%;
     text-align: center;
     color:black;
@@ -469,7 +468,7 @@ p.account a {
     box-sizing: border-box;
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
-    width: 100%;
+    width: 50%;
     background: #fff;
     margin-bottom: 4%;
     border: 1px solid #ccc;
@@ -507,5 +506,6 @@ p.account a {
     border-left-style: none;    
     color: #fff;
     font-size:2em;
+
 }
 
