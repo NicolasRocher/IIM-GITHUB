@@ -482,14 +482,15 @@ p.account a {
     -moz-box-sizing: border-box;
     width: 50%;
     background: #fff;
-    margin-bottom: 4%;
+    margin-bottom: 10px;
     border: 1px solid #ccc;
-    padding: 3%;
+    padding: 2%;
     color: #555;
     font: 95% Arial, Helvetica, sans-serif;
     margin-left:25%;
-    margin-top:2%;
-    height:100px;
+    margin-top:1%;
+    height:10px;
+    border-radius:0.5vw 0.5vw 0.5vw 0.5vw;
 }
 .form-style-6 input[type="text"]:focus,
 .form-style-6 input[type="date"]:focus,
