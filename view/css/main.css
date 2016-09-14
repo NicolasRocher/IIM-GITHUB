@@ -19,7 +19,7 @@ input:focus {
 }
 
 #logbox.register {
-	background-color: #333;
+	background-color: #f36c4e;
 }
 
 #logbox h1 {
@@ -106,7 +106,10 @@ input:focus {
 }
 
 #logbox.register .form-submit input[type="submit"] {
-	background-color: #f50;
+	background-color: #ce5845;
+}
+#logbox.register .form-submit input[type="submit"]:hover {
+	background-color: rgba(255,255,255,.2);
 }
 
 #logbox .form-submit input[type="submit"]:active {
