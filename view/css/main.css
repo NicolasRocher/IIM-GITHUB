@@ -1,5 +1,5 @@
 body {
-	background-color: grey;
+	background-image: url('../../images/backsobre.jpg');
 }
 
 input:focus {
@@ -196,7 +196,7 @@ p.account a {
 #topbar a.btn:hover {
 	background-color: grey;
 	color: white;
-	border: solid 1px grey;
+	border: solid 1px white;
 	text-decoration: none;
 }
 
