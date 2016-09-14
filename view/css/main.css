@@ -210,6 +210,7 @@ p.account a {
 	padding-bottom: 20px;
 	letter-spacing: 1px;
 	border-bottom: 1px solid #CCC;
+	color: white;
 }
 
 .music,
@@ -226,7 +227,7 @@ p.account a {
 }
 
 .music:hover{
-	border: solid 2px rgba(255,255,255,.2);
+	border: solid 1px rgba(255,255,255,.2);
 }
 
 .music.playing {
@@ -260,7 +261,7 @@ p.account a {
 }
 
 .music .date {
-	color: black;
+	color: white;
 }
 
 .music .actionicon a{
