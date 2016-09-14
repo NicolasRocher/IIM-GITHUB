@@ -218,8 +218,9 @@ p.account a {
 	font-size: 15px;
 	padding-bottom: 20px;
 	letter-spacing: 1px;
-	border-bottom: 1px solid #CCC;
+	border-bottom: 1px solid #f36c4e;
 	color: white;
+	font-weight: bold;
 }
 
 .music,
