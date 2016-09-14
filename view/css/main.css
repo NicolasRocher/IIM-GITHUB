@@ -215,7 +215,7 @@ p.account a {
 .music,
 .block {
 	padding: 30px;
-	background-color: #81BEF7;
+	background-color: rgba(255,255,255,.2);
 	margin-top: 20px;
 	-webkit-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
 	-moz-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
