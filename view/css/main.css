@@ -29,7 +29,7 @@ input:focus {
 	font-size: 15px;
 	text-transform: uppercase;
 	letter-spacing: 1px;
-	font-family: "Montserrat";
+	font-family: Arial;
 
 }
 
@@ -48,7 +48,7 @@ input:focus {
 	color: white;
 	font-size: 12px;
 	text-transform: uppercase;
-	font-family: "Montserrat";
+	font-family: Arial;
 }
 
 #logbox .form-input input:focus {
@@ -99,7 +99,7 @@ input:focus {
 	text-transform: uppercase;
 	background-color: #ce5845;
 	padding: 10px;
-	font-family: "Montserrat";
+	font-family: Arial;
 }
 #logbox .form-submit input[type="submit"]:hover {
 	background-color: rgba(255,255,255,.2);
