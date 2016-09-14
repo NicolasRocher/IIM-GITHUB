@@ -9,6 +9,7 @@
 					<div class="col-xs-10 col-sm-10 col-md-11 col-lg-11">
 						<a href="logout.php" class="btn">Déconnexion</a>
 						<a href="edit_image.php" class="btn">Profil</a>
+						<a href="inscription.php" class="btn">Inscription</a>
 						<a href="forum.php" class="btn">Forum</a>
 						<a href="contact.php" class="btn">Contact</a>
 						<a href="add_music.php" class="btn"><i class="fa fa-plus"></i> Ajouter une musique</a>
