@@ -216,7 +216,7 @@ p.account a {
 }
 
 .music.playing {
-	border: solid 2px #04B404;
+	border: solid 2px black;
 }
 
 .music.playing h3{
