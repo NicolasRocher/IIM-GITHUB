@@ -11,7 +11,10 @@
 						<a href="edit_image.php" class="btn">Profil</a>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> 8d138d9aa7f50aac30a976d7b9af159071a829f7
 =======
 >>>>>>> 8d138d9aa7f50aac30a976d7b9af159071a829f7
 						<a href="inscription.php" class="btn">Inscription</a>
