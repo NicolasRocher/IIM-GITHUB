@@ -96,14 +96,18 @@ input:focus {
 	background: transparent;
 	border: none;
 	width: 100%;
-	font-size: 11px;
+	font-size: 15px;
 	text-transform: uppercase;
-	background-color: #ce5845;
+	background-color: #f36c4e;
 	padding: 10px;
 	font-family: Arial;
+	border-radius: 1vw 1vw 1vw 1vw;
+	font-weight: bold;
 }
 #logbox .form-submit input[type="submit"]:hover {
-	background-color: rgba(255,255,255,.2);
+	background-color: white;
+	color: #f36c4e;
+	font-weight: bold;
 }
 
 #logbox.register .form-submit input[type="submit"] {
@@ -147,7 +151,8 @@ input:focus {
 }
 
 p.account {
-	color: rgba(255,255,255,.7)
+	color: rgba(255,255,255,.7);
+	text-align: center;
 }
 
 p.account a {
