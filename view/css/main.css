@@ -488,9 +488,9 @@ p.account a {
 .form-style-6 textarea:focus,
 .form-style-6 select:focus
 {
-    box-shadow: 0 0 5px orange;
+    box-shadow: 0 0 5px #f36c4e;
     padding: 3%;
-    border: 1px solid orange;
+    border: 1px solid #f36c4e;
 }
 
 .form-style-6 input[type="submit"],
