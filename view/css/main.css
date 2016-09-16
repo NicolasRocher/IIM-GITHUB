@@ -530,6 +530,33 @@ p.account a {
 	background-color: #f36c4e;
 	border-radius: 0.5vw 0.5vw 0.5vw 0.5vw;
 	margin-top: 7%;
+	padding: 1.5%;
+}
+.divmess h2 {
+	color: white;
+	font-weight: bold;
+}
+#email {
+	margin-bottom: 2%;
+	margin-top: 2%;
+	background-color: white;
+	font-family: Arial;
+	font-weight: bold;
+	color: #f36c4e;
+	border-radius: 1vw 1vw 1vw 1vw;
+	border: solid white 1px;
+	padding: 0.5%;
+	width: 30%;
+}
+#message {
+	background-color: white;
+	font-family: Arial;
+	font-weight: bold;
+	color: #f36c4e;
+	border-radius: 1vw 1vw 1vw 1vw;
+	border: solid white 1px;
+	padding: 0.5%;
+	margin-bottom: 1%;
 }
 
 
