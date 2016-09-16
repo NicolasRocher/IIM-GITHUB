@@ -536,6 +536,12 @@ p.account a {
 	color: white;
 	font-weight: bold;
 }
+.divmess img {
+	border: solid transparent 1px;
+	border-radius: 2vw 2vw 2vw 2vw;
+	width: 60%;
+	margin-left: 30%;
+}
 #email {
 	margin-bottom: 2%;
 	margin-top: 2%;
