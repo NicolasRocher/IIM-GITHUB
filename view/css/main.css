@@ -558,6 +558,34 @@ p.account a {
 	padding: 0.5%;
 	margin-bottom: 1%;
 }
+#sendmessage {
+	background-color: white;
+	padding: 0.5%;
+	color: #f36c4e;
+	font-weight: bold;
+	border: solid white 1px;
+	border-radius: 0.3vw 0.3vw 0.3vw 0.3vw;
+	margin-left: 0.2%;
+}
+#resetmessage {
+	background-color: white;
+	padding: 0.5%;
+	color: #f36c4e;
+	font-weight: bold;
+	border: solid white 1px;
+	border-radius: 0.3vw 0.3vw 0.3vw 0.3vw;
+	margin-left: 1%;
+}
+#resetmessage:hover {
+	background-color: #f36c4e;
+	border: solid white 1px;
+	color: white;
+}
+#sendmessage:hover {
+	background-color: #f36c4e;
+	border: solid white 1px;
+	color: white;
+}
 
 
 
