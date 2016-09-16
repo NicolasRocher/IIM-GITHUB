@@ -16,7 +16,7 @@ if( isset($_FILES['music']) && !empty($_FILES['music']) &&
 			$destination = "musics/{$filename}.{$_SESSION['id']}.{$ext}";
 			
 			addMusic($db, $user_id, $_SESSION['id'], $_POST['title'], $destination);
-
+			
 		} else {
 			$error = 'Erreur, le fichier n\'a pas une extension autorisée !';
 		}
