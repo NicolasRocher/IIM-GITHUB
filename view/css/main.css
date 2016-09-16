@@ -526,77 +526,11 @@ p.account a {
     margin-bottom:2%;
  	border-radius:0.5vw 0.5vw 0.5vw 0.5vw;
  }
-.divcontact {
-	background-color: rgba(0, 0, 0, 0.3);
-	margin-top: 2%;
-	border-radius: 2vw 2vw 2vw 2vw;
-}
-.contact h4 {
-	margin: 0;
-	padding: 0;
-	margin-bottom: 2vw;
-	font-size: 2vw;
-	text-transform: uppercase;
-	letter-spacing: 1px;
-	font-family: Arial;
-	text-align: center;
-	color: white;
-	margin-top: 5%;
-}
-
-#sendmail {
-	width: 100%;
-	background-color: ;
-	border-radius: 2vw 2vw 2vw 2vw;
-	border: 2px solid white;
-	color: #f36c4e;
-	font-family: Arial;
-	padding: 2%;
-	margin-bottom: 3%;
-	font-size: 20px;
-	font-weight: bold;
-}
-#message {
-	background-color: white;
+.divmess {
+	background-color: #f36c4e;
 	border-radius: 0.5vw 0.5vw 0.5vw 0.5vw;
-	border: 2px solid white;
-	color: #f36c4e;
-	font-family: Arial;
-	padding: 2%;
-	font-size: 20px;
-	margin-bottom: 2%;
-	font-weight: bold;
+	margin-top: 7%;
 }
 
-#sendmess {
-	border: solid #f36c4e 2px;
-	border-radius: 0.3vw 0.3vw 0.3vw 0.3vw;
-	background-color: #f36c4e;
-	color: white;
-	padding: 3%;
-	font-family: Arial;
-	font-weight: bold;
-	margin-left: 25%;
 
-}
-#resetmess {
-	border: solid #f36c4e 2px;
-	border-radius: 0.3vw 0.3vw 0.3vw 0.3vw;
-	background-color: #f36c4e;
-	color: white;
-	padding: 3%;
-	font-family: Arial;
-	font-weight: bold;
-	margin-left: 5%;
-}
 
-#sendmess:hover {
-	color: #f36c4e;
-	background-color: white;
-	border: solid white 2px;
-}
-#resetmess:hover {
-	color: #f36c4e;
-	background-color: white;
-	border: solid white 2px;
-}
