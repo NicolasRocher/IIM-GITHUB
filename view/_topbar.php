@@ -10,7 +10,6 @@
 						<a href="logout.php" class="btn">Déconnexion</a>
 						<a href="edit_image.php" class="btn">Profil</a>
 						<a href="inscription.php" class="btn">Inscription</a>
-						<a href="contact.php" class="btn">Contact</a>
 						<a href="add_music.php" class="btn"><i class="fa fa-plus"></i> Ajouter une musique</a>
 
 					</div>
